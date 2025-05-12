@@ -24,8 +24,6 @@ class Student : public Person{
 
         void changeMajor(const string & major);
 
-        Student &operator =(const Student &other);
-
     private:
         string student_id_;
         string major_;

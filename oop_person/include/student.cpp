@@ -38,8 +38,3 @@ void Student::changeMajor(const string &major)
     major_ = major;
     cout << "Major changed to: " << major_ << endl;
 }
-
-Student& Student::operator=(const Student &other)
-{
-    return *this;
-}

@@ -23,6 +23,8 @@ int main(int argc, char **argv)
     Person::print_line();
     student_ptr->print();
 
+    Person::print_line();
+
     delete person_ptr[0];
     delete student_ptr;
     return 0;
