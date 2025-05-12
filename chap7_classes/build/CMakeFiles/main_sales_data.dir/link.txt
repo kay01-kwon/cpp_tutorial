@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main_sales_data.dir/src/main.cpp.o CMakeFiles/main_sales_data.dir/include/sales_data.cpp.o  -o main_sales_data 
