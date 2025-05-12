@@ -21,6 +21,9 @@ class Person {
         // Shallow Copy constructor
         Person(const Person& other);
 
+        // virtual ~Person();
+        ~Person();
+
         virtual void print() const;
 
         static void print_line();

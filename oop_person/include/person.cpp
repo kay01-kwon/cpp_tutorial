@@ -17,6 +17,12 @@ Person::Person(const Person &other)
 {
 }
 
+Person::~Person()
+{
+    // Destructor
+    cout << "Destructor called for Person" << endl;
+}
+
 void Person::print() const
 {
     cout << "Name: " << name_ << endl;

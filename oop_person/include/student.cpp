@@ -19,6 +19,11 @@ gradYear_(other.gradYear_)
 {    
 }
 
+Student::~Student()
+{
+    cout << "Destructor called for Student: " << endl;
+}
+
 // Print function
 void Student::print() const
 {

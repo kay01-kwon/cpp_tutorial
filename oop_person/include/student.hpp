@@ -17,6 +17,9 @@ class Student : public Person{
         // Shallow Copy constructor
         Student(const Student& other);
 
+        // ~Student() override;
+        ~Student();
+
         void print() const override;
 
         void changeMajor(const string & major);
