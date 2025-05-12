@@ -1,3 +1,0 @@
-/home/kay/Documents/cpp_tutorial/chap7_classes/build/CMakeFiles/rebuild_cache.dir
-/home/kay/Documents/cpp_tutorial/chap7_classes/build/CMakeFiles/edit_cache.dir
-/home/kay/Documents/cpp_tutorial/chap7_classes/build/CMakeFiles/main_sales_data.dir
